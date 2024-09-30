@@ -17,9 +17,9 @@
 - Startups and entrepreneurial ventures
 
 ## 📫 How to reach me
-- Email: [rishabruh@gmail.com](mailto:rishabruh@gmail.com)
-- LinkedIn: [linkedin.com/in/iamrishabruh](https://linkedin.com/in/iamrishabruh)
-- Portfolio: [Portfolio](https://rishabhchouhan.netlify.app/)
+- [EMAIL](mailto:rishabruh@gmail.com)
+- [LINKEDIN](https://linkedin.com/in/iamrishabruh)
+- [PORTFOLIO](https://rishabhchouhan.netlify.app/)
 
 ## 😄 Pronouns
 - He/Him
